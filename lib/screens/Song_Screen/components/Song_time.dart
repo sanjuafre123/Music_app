@@ -21,6 +21,7 @@ Padding Song_time(MusicProvider providerTrue) {
           ],
         ),
         Row(
+
           children: [
             Text(
               '${providerTrue.maxDuration ~/ 60}:',
